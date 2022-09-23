@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<tuiles>
+		<tuile exemplaire="4" case0="abbaye" case1="prairie" case2="prairie" case3="prairie" case4="prairie" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="2" case0="abbaye" case1="prairie" case2="prairie" case3="prairie" case4="prairie" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="1" case0="ville" case1="blason" case2="ville" case3="ville" case4="ville" case5="ville" case6="ville" case7="ville" case8="ville" case9="ville" case10="ville" case11="ville" case12="ville"  />
+
+		<tuile exemplaire="3" case0="ville" case1="ville" case2="ville" case3="ville" case4="ville" case5="ville" case6="ville" case7="ville" case8="prairie" case9="prairie" case10="prairie" case11="ville" case12="ville"  />
+		<tuile exemplaire="1" case0="ville" case1="blason" case2="ville" case3="ville" case4="ville" case5="ville" case6="ville" case7="ville" case8="prairie" case9="prairie" case10="prairie" case11="ville" case12="ville"  />
+
+		<tuile exemplaire="2" case0="ville" case1="blason" case2="ville" case3="ville" case4="ville" case5="ville" case6="ville" case7="ville" case8="prairie" case9="route" case10="prairie" case11="ville" case12="ville"  />
+		
+		<tuile exemplaire="1" case0="ville" case1="ville" case2="ville" case3="ville" case4="ville" case5="ville" case6="ville" case7="ville" case8="prairie" case9="route" case10="prairie" case11="ville" case12="ville"  />
+
+
+		<tuile exemplaire="3" case0="prairie" case1="prairie" case2="ville" case3="ville" case4="ville" case5="ville" case6="ville" case7="ville" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="2" case0="prairie" case1="prairie" case2="ville" case3="ville" case4="blason" case5="ville" case6="ville" case7="ville" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="2" case0="prairie" case1="prairie" case2="ville" case3="ville" case4="prairie" case5="prairie" case6="ville" case7="ville" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="3" case0="route" case1="prairie" case2="ville" case3="ville" case4="ville" case5="ville" case6="ville" case7="ville" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="route"  />
+	
+		<tuile exemplaire="2" case0="route" case1="prairie" case2="ville" case3="ville" case4="blason" case5="ville" case6="ville" case7="ville" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="3" case0="prairie" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="prairie" case7="prairie" case8="ville" case9="ville" case10="ville" case11="prairie" case12="prairie"  />
+
+
+		<tuile exemplaire="2" case0="ville" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="prairie" case7="prairie" case8="ville" case9="blason" case10="ville" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="1" case0="ville" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="prairie" case7="prairie" case8="ville" case9="ville" case10="ville" case11="prairie" case12="prairie"  />
+		<tuile exemplaire="5" case0="prairie" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="3" case0="route" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="4" case0="route" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="route"  />
+		<tuile exemplaire="3" case0="route" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="prairie"  />
+		<tuile exemplaire="3" case0="carrefour" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="9" case0="route" case1="prairie" case2="prairie" case3="prairie" case4="prairie" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="8" case0="route" case1="prairie" case2="prairie" case3="prairie" case4="prairie" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="4" case0="village" case1="prairie" case2="prairie" case3="prairie" case4="prairie" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="1" case0="village" case1="prairie" case2="prairie" case3="route" case4="prairie" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="route"  />
+
+	</tuiles>
+	
+	<regles>
+		<regle description="Déroulé d'un tour :1) Piocher une carte de paysage et la poser sur la table de manière à ce que la tuile soit comptatible avec les tuiles sur le plateau. 2) Posibilité de prendre l'un de leur partisans et le placer sur la carte qui vient d'être posée sur la table. 3) Si grâce à cette carte, un chemin, une ville ou abbaye est achevée, les évaluer et compter les points correspondants. Les joueurs récupèrent les partisans qu'il avaient placés, comme chevalier, voleur, ou moine. Au tour suivant, les joueurs peuvent les réutiliser sur de nouvelles cartes de paysage qu'ils décident de placer."/>
+	</regles>
+</root>
+
+
+
+

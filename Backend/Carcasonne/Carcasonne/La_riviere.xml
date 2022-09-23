@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+	<tuiles>
+		<tuile exemplaire="1" case0="source" case1="prairie" case2="prairie" case3="prairie" case4="prairie" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="riviere" case10="prairie" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="1" case0="pont" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="riviere" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="riviere"  />
+			
+		<tuile exemplaire="1" case0="riviere" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="riviere" case7="prairie" case8="ville" case9="ville" case10="ville" case11="prairie" case12="riviere"  />
+
+		<tuile exemplaire="2" case0="riviere" case1="prairie" case2="prairie" case3="riviere" case4="prairie" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="riviere" case10="prairie" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="1" case0="riviere" case1="prairie" case2="ville" case3="ville" case4="ville" case5="ville" case6="ville" case7="ville" case8="prairie" case9="riviere" case10="prairie" case11="prairie" case12="riviere"  />
+
+		<tuile exemplaire="1" case0="riviere" case1="prairie" case2="prairie" case3="riviere" case4="prairie" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="riviere"  />
+
+		<tuile exemplaire="1" case0="pont" case1="prairie" case2="abbaye" case3="prairie" case4="prairie" case5="prairie" case6="riviere" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="riviere"  />
+
+		<tuile exemplaire="1" case0="prairie" case1="route" case2="route" case3="route" case4="prairie" case5="prairie" case6="riviere" case7="riviere" case8="riviere" case9="riviere" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="1" case0="riviere" case1="jardin" case2="jardin" case3="prairie" case4="prairie" case5="prairie" case6="riviere" case7="prairie" case8="prairie" case9="riviere" case10="prairie" case11="prairie" case12="prairie"  />
+
+		<tuile exemplaire="1" case0="pont" case1="prairie" case2="prairie" case3="riviere" case4="prairie" case5="village" case6="route" case7="prairie" case8="prairie" case9="riviere" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="1" case0="lac" case1="prairie" case2="prairie" case3="riviere" case4="prairie" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="prairie"  />
+
+	</tuiles>
+	
+	
+	<regles>
+		<regle description=" Les joueurs doivent piocher et placer toutes les tuiles Rivière avant de pouvoir piocher les tuiles Terrain. Placee la Rivière de façon à prolonger son cours. En respectant les règles habituelles vous pouvez poser des meeples le long de la rivière, mais pas sur l’illustration de la rivière elle-même."/>
+
+	</regles>
+
+
+</root>
+
+
+
+

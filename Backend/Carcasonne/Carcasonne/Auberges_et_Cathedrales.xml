@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<tuiles>
+		<tuile exemplaire="1" case0="route" case1="prairie" case2="prairie" case3="prairie" case4="auberge" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="1" case0="route" case1="prairie" case2="prairie" case3="prairie" case4="auberge" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="jardin" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="1" case0="carrefour" case1="prairie" case2="prairie" case3="prairie" case4="auberge" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="jardin" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="1" case0="abbaye" case1="prairie" case2="prairie" case3="prairie" case4="prairie" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="1" case0="abbaye" case1="prairie" case2="prairie" case3="prairie" case4="auberge" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="route"  />
+
+		<tuile exemplaire="1" case0="prairie" case1="route" case2="route" case3="route" case4="prairie" case5="prairie" case6="route" case7="route" case8="route" case9="route" case10="prairie" case11="prairie" case12="route"  />
+        
+		<tuile exemplaire="1" case0="route" case1="ville" case2="ville" case3="ville" case4="ville" case5="prairie" case6="route" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="ville" case12="ville"  />
+
+    	<tuile exemplaire="1" case0="ville" case1="ville" case2="prairie" case3="prairie" case4="prairie" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="ville" case12="ville"  />
+
+        <tuile exemplaire="1" case0="jardin" case1="prairie" case2="prairie" case3="ville" case4="prairie" case5="prairie" case6="ville" case7="prairie" case8="prairie" case9="ville" case10="prairie" case11="prairie" case12="ville"  />
+
+        <tuile exemplaire="1" case0="village" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="route" case7="prairie" case8="ville" case9="ville" case10="ville" case11="prairie" case12="route"  />
+
+        <tuile exemplaire="1" case0="route" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="prairie" case7="prairie" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="prairie"  />
+
+        <tuile exemplaire="2" case0="cathedrale" case1="ville" case2="ville" case3="ville" case4="ville" case5="ville" case6="ville" case7="ville" case8="ville" case9="ville" case10="ville" case11="ville" case12="ville"  />
+
+        <tuile exemplaire="1" case0="route" case1="blason" case2="ville" case3="ville" case4="ville" case5="prairie" case6="route" case7="auberge" case8="ville" case9="route" case10="prairie" case11="ville" case12="ville"  />
+
+        <tuile exemplaire="1" case0="route" case1="prairie" case2="ville" case3="ville" case4="ville" case5="prairie" case6="prairie" case7="auberge" case8="prairie" case9="route" case10="prairie" case11="prairie" case12="route"  />
+    
+        <tuile exemplaire="1" case0="ville" case1="ville" case2="ville" case3="ville" case4="ville" case5="prairie" case6="prairie" case7="auberge" case8="prairie" case9="route" case10="prairie" case11="ville" case12="ville"  />
+
+        <tuile exemplaire="1" case0="prairie" case1="prairie" case2="prairie" case3="ville" case4="prairie" case5="prairie" case6="ville" case7="prairie" case8="prairie" case9="prairie" case10="prairie" case11="prairie" case12="ville"  />
+
+        <tuile exemplaire="1" case0="ville" case1="blason" case2="ville" case3="ville" case4="ville" case5="prairie" case6="prairie" case7="prairie" case8="ville" case9="ville" case10="prairie" case11="ville" case12="ville"  />
+
+        <tuile exemplaire="1" case0="ville" case1="ville" case2="prairie" case3="route" case4="prairie" case5="ville" case6="blason" case7="ville" case8="prairie" case9="route" case10="prairie" case11="ville" case12="ville"  />
+
+	</tuiles>
+	
+	
+	<regles>
+		<regle description="Présence d'un grand meeple pour chaque joueur. À la place d’un meeple normal, vous pouvez poser un grand meeple. Les règles de pose sont les mêmes que celles des meeples normaux. Lorsqu’un grand meeple occupe une zone qui va être évaluée, il compte comme 2 meeples normaux quand on doit déterminer quel joueur a le contrôle d’une zone.Lorsqu’un joueur complète une route avec une ou plusieurs auberge, le ou les joueurs concernés par l’évaluation reçoivent chacun 2 points par tuile formant cette route complétée.  Lors de l’évaluation finale, les routes incomplètes passant près d’une ou plusieurs auberges ne rapportent aucun point. Même si ces routes auraient normalement dû être évaluées, la présence d’une auberge les empêchera de l’être. Lorsqu’un joueur complète une ville avec une ou deux cathédrales, le ou les joueurs concernés par l’évaluation reçoivent chacun 3 points par tuile et blason dans cette ville complétée. Lors de l’évaluation finale, les villes incomplètes avec une ou deux cathédrales ne rapportent aucun point. Même si ces villes auraient normalement dû être évaluées, la présence d’une cathédrale les empêchera de l’être."/>
+
+
+	</regles>
+</root>

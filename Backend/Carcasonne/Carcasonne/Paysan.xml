@@ -1,0 +1,12 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+	<regles>
+		<regle description=" Les paysans sont posés “couchés” sur les tuiles. Les paysans ne rapportent des points qu’en fin de partie (lors de l’évaluation finale).Chaque ville complète, qui se trouve au milieu d’un pré ou qui le touche, rapporte 3 points. Chaque ville complète peut rapporter des points pour un nombre illimité de champs différents. Comme pour les routes et les villes, s’il y a plus d’un paysan dans le même pré, seul le joueur qui possède le plus de paysans dans ce pré remporte la totalité des points. Si des joueurs ont le même nombre de paysans dans un pré, chacun d’eux marque la totalité des points."/>
+
+	</regles>
+
+
+</root>
